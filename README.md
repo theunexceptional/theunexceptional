@@ -1,16 +1,36 @@
-## Hi there 👋
+🚀 Welcome to My GitHub!
+Hi there! 
+I'm Bhavya, a passionate game developer working with Godot 4.3 & 4.2 to craft immersive experiences. 
+I'm currently building a prototype AAA-inspired horror game and a platformer for Android and Windows while exploring Blender, C++, and Unity.
 
-<!--
-**theunexceptional/theunexceptional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 What I Do:
+  🎮 Game Development – Horror & Platformer | Godot | Unity
+  🎨 3D Art & Animation – Learning Blender to enhance game visuals
+  💻 Web Development – Creating high-quality, graphics-heavy websites
+  📚 STEM Enthusiast – Deep into Math, Physics and Chemistry
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+  Languages: GDScript | C++ | HTML/CSS | JavaScript
+  Game Engines: Godot | Unity
+  3D & Design: Blender
+  Tools: Git | Windows | VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+  Advanced Blender Techniques
+  Unreal Engine 5 Bodycam Mechanics
+  Deep Horror Game Design & AI Systems
+
+📫 Connect With Me
+  ✉️ Email: bhavyakh07@gmail.com & theunexceptional@outlook.in
+  
+  🌐 itch.io: https://bgstudioz.itch.io/
+  
+  🎮 Discord: theunexceptional
+  
+  📷 Instagram: https://www.instagram.com/theunexceptional_/
+  
+Let’s build something awesome! 🚀🔥
+
+![GitHub Student](https://img.shields.io/badge/GitHub%20Student-Powered%20by%20GitHub-blue?style=flat&logo=github)
+
+
