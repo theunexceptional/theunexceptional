@@ -4,23 +4,23 @@ I'm Bhavya, a passionate game developer working with Godot 4.3 & 4.2 to craft im
 I'm currently building a prototype AAA-inspired horror game and a platformer for Android and Windows while exploring Blender, C++, and Unity.
 
 🔥 What I Do:
-  🎮 Game Development – Horror & Platformer | Godot | Unity
-  🎨 3D Art & Animation – Learning Blender to enhance game visuals
-  💻 Web Development – Creating high-quality, graphics-heavy websites
-  📚 STEM Enthusiast – Deep into Math, Physics and Chemistry
+  🎮 Game Development – Horror & Platformer | Godot | Unity, 
+  🎨 3D Art & Animation – Learning Blender to enhance game visuals, 
+  💻 Web Development – Creating high-quality, graphics-heavy websites, 
+  📚 STEM Enthusiast – Deep into Math, Physics and Chemistry 
 
-🛠️ Tech Stack:
-  Languages: GDScript | C++ | HTML/CSS | JavaScript
-  Game Engines: Godot | Unity
-  3D & Design: Blender
-  Tools: Git | Windows | VS Code
+🛠️ Tech Stack: 
+  Languages: GDScript | C++ | HTML/CSS | JavaScript, 
+  Game Engines: Godot | Unity, 
+  3D & Design: Blender, 
+  Tools: Git | Windows | VS Code 
 
-🌱 Currently Learning:
-  Advanced Blender Techniques
-  Unreal Engine 5 Bodycam Mechanics
-  Deep Horror Game Design & AI Systems
+🌱 Currently Learning: 
+  Advanced Blender Techniques, 
+  Unreal Engine 5 Bodycam Mechanics, 
+  Deep Horror Game Design & AI Systems 
 
-📫 Connect With Me
+📫 Connect With Me: 
   ✉️ Email: bhavyakh07@gmail.com & theunexceptional@outlook.in
   
   🌐 itch.io: https://bgstudioz.itch.io/
