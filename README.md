@@ -4,10 +4,10 @@ Hello!
 I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4.3 & 4.4** to create engaging gaming experiences. I am currently developing a AAA-inspired horror game prototype and a platformer for Android & Windows. In addition, I am broadening my expertise in **Blender, C++, and Unity**.
 
 ## What I Do
-- ** 🎮 Game Development:** Focused on horror and platformer genres using Godot and Unity.
-- ** 🎨 3D Art & Animation:** Enhancing game visuals through Blender.
-- ** 💻 Web Development:** Building high-performance, graphics-intensive websites.
-- ** 📚 STEM:** Passionate about Mathematics, Physics, and Chemistry.
+- 🎮 **Game Development:** Focused on horror and platformer genres using Godot and Unity.
+- 🎨 **3D Art & Animation:** Enhancing game visuals through Blender.
+- 💻 **Web Development:** Building high-performance, graphics-intensive websites.
+- 📚 **STEM:** Passionate about Mathematics, Physics, and Chemistry.
 
 ## 🛠️ Tech Stack
 - **Languages:** GDScript, C++, HTML/CSS, JavaScript
@@ -21,10 +21,10 @@ I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4.3 & 4
 - Deep Horror Game Design & AI Systems
 
 ## 📫 Connect With Me
-- ** ✉️ Email:** [bhavyakh07@gmail.com](mailto:bhavyakh07@gmail.com) | [theunexceptional@outlook.in](mailto:theunexceptional@outlook.in)
-- ** 🌐 itch.io:** [bgstudioz.itch.io](https://bgstudioz.itch.io/)
-- ** 🎮 Discord:** theunexceptional
-- ** 📷 Instagram:** [@theunexceptional_](https://www.instagram.com/theunexceptional_/)
+- ✉️ **Email:** [bhavyakh07@gmail.com](mailto:bhavyakh07@gmail.com) | [theunexceptional@outlook.in](mailto:theunexceptional@outlook.in)
+- 🌐 **itch.io:** [bgstudioz.itch.io](https://bgstudioz.itch.io/)
+- 🎮 **Discord:** theunexceptional
+- 📷 **Instagram:** [@theunexceptional_](https://www.instagram.com/theunexceptional_/)
 
 Let’s build something great together!
 
