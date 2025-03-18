@@ -33,5 +33,9 @@ I'm currently building a prototype AAA-inspired horror game and a platformer for
 Let’s build something awesome! 🚀🔥
 
 ![GitHub Student](https://img.shields.io/badge/GitHub%20Student-Powered%20by%20GitHub-blue?style=flat&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=theunexceptional&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/theunexceptional?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theunexceptional&show_icons=true&theme=tokyonight)
+
 
 
