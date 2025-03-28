@@ -17,7 +17,6 @@ I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4** to 
 
 ## 🌱 Currently Learning
 - Advanced Blender Techniques
-- Unreal Engine 5 Bodycam Mechanics
 - Deep Horror Game Design & AI Systems
 
 ## 📫 Connect With Me
