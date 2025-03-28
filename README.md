@@ -1,7 +1,7 @@
 ## 🚀 Welcome to My GitHub!
 
 Hello!  
-I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4.3 & 4.4** to create engaging gaming experiences. I am currently developing a AAA-inspired horror game prototype and a platformer for Android & Windows. In addition, I am broadening my expertise in **Blender, C++, and Unity**.
+I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4** to create engaging gaming experiences. I am currently developing a AAA-inspired horror game prototype and a platformer for Android & Windows. In addition, I am broadening my expertise in **Blender, C++, and Godot Engine**.
 
 ## What I Do
 - 🎮 **Game Development:** Focused on horror and platformer genres using Godot and Unity.
@@ -11,8 +11,8 @@ I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4.3 & 4
 
 ## 🛠️ Tech Stack
 - **Languages:** GDScript, C++, HTML/CSS, JavaScript
-- **Game Engines:** Godot, Unity
-- **3D & Design:** Blender
+- **Game Engines:** Godot
+- **3D & Design:** Blender and Goxel
 - **Tools:** Git, Windows, VS Code
 
 ## 🌱 Currently Learning
