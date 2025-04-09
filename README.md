@@ -70,5 +70,4 @@ Let’s build something great together!
 <h3 align="center">Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theunexceptional&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="theunexceptional" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theunexceptional&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="theunexceptional" />
 </p>
