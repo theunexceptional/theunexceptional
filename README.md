@@ -10,7 +10,7 @@ I'm **Bhavya**, a dedicated game developer specializing in using **Godot 4** to 
 - 🎨 **3D Art & Animation:** Enhancing game visuals through Blender.
 - 💻 **Web Development:** Building high-performance, graphics-intensive websites.
 - 📚 **STEM:** Passionate about Mathematics, Physics, and Chemistry.
-- 🔭 I’m currently working on [Project-Nyctophobia](https://github.com/theunexceptional/Project-Nyctophobia)
+- 🔭 I’m currently working on [Project-Nyctophobia](https://github.com/theunexceptional/Project-Nyctophobia) & [Bluether](https://github.com/theunexceptional/Bluether)
 
 ## 🛠️ Tech Stack
 - **Game Engines:** Godot
