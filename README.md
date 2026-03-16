@@ -7,9 +7,8 @@ I'm **Bhavya**, a  game dev using **Godot 4** to pre-bake your worst horrors and
 
 ## What I Do
 - 🎮 **Game Development:** Focused on horror genre and doing research on phobias and their causes.
-- 🤖 **Android Development:** Developing [Bluether](https://github.com/theunexceptional/Bluether)
-- 🔭 I’m currently working on [Project-Nyctophobia](https://github.com/theunexceptional/Project-Nyctophobia) & [Bluether](https://github.com/theunexceptional/Bluether)
-
+- 🤖 **Android Development:** Sometimes working on a side project [Bluether](https://github.com/theunexceptional/Bluether)
+- 🔭 I’m currently working on [Project-Nyctophobia](https://github.com/theunexceptional/Project-Nyctophobia)
 ## 🛠️ Tech Stack
 - **Game Engines:** Godot
 - **3D & Design:** Blender and Goxel
@@ -37,5 +36,3 @@ Let’s build something great together.
     <img src="https://img.shields.io/github/followers/theunexceptional?style=social" />
   </div>
 </div>
-
-[Project-Nyctophobia](github-readme-stats.vercel.app/api/pin/?username=theunexceptional&repo=Project-Nyctophobia)
